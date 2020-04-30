@@ -1,0 +1,8 @@
+<div class="alert alert-info" [ngClass]="{'text-danger':estilos.peligro, 'text-info':!estilos.peligro}" role="alert">
+    A simple primary alert—check it out!
+</div>
+
+<button class="btn btn-info" (click)="guardarCambios()" [disabled]="loading">
+    <i class="fa" [ngClass]="{'fa-refresh fa-spin': loading, 'fa-save':!loading}">
+    </i> Guardar cambios    
+</button>
