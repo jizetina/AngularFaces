@@ -1,5 +1,9 @@
 # Miscelaneos
 
+This project was created by me as a way to autolearning, and how to use Angular + GitHub as Version Control; futher I going to add data, I'd like use a some NoSQL database like Firebase.
+
+Also I took the most of code from a tutorial from Fernando Herrera on Udemy, it's very recommended if you're a Angular newbie, by the way, that's in Spanish.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ## Development server
